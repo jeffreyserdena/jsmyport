@@ -51,7 +51,7 @@ ScrollReveal().reveal('.home-content p, .about-content', { origin: 'right' });
 
 // typed js
 const typed = new Typed('.multiple-text', {
-    strings: ['WordPress Developer', 'Graphic Designer', 'Application Developer'],
+    strings: ['WordPress Developer', 'Graphic Designer', 'App Developer'],
     typeSpeed: 100,
     backSpeed: 100,
     backDelay: 1000,
